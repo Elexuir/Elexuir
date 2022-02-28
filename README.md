@@ -10,4 +10,4 @@
 - 📫 How to reach me: ... xanderjdavis@icloud.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I actually started JavaScript only like a year ago and have gotten really far in the programming language.
-- ⚙️ Projects: ["Password"]("https://elexuir.github.io/passwd")
+- ⚙️ Projects: [Password]("https://elexuir.github.io/passwd")
